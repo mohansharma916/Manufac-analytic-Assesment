@@ -23,3 +23,9 @@ Your app is ready to be deployed!
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ## Flavanoids Stats
+<img width="292" alt="Screenshot 2023-12-09 at 5 45 07 PM" src="https://github.com/mohansharma916/Manufac-analytic-Assesment/assets/77909856/819b919c-5c43-42bd-8add-c12db0ccaaf1">
+
+
+## Gama Stats
+
+<img width="292" alt="Screenshot 2023-12-09 at 5 45 12 PM" src="https://github.com/mohansharma916/Manufac-analytic-Assesment/assets/77909856/ea28db2f-1078-4878-b8b6-0859f35f9804">
